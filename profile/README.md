@@ -1,5 +1,5 @@
 ## What?
-This project began as an extension of a hobby. BuntinJP,RUNFUNRUN is collage students.
+This project began as an extension of a hobby. BuntinJP,RUNFUNRUN are collage students.
 
 
 This is only created to satisfy our own needs and demands. We are publishing this information in the hope that it will benefit someone as a side effect.
